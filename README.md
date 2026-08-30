@@ -1,21 +1,5 @@
 <h2 align="left">Hi 👋! My name is Muhammad Insan Kamil and I'm a Fullstack Web Developer from Indonesia</h2>
 
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/9kbifn.jpg" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=InsanBusted&show_icons=true&theme=dracula&v=1" height="150" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=InsanBusted&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-  
-</div>
-
-###
 
 ### 🛠️ Tech Stack
 
